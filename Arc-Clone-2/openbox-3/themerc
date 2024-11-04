@@ -2,7 +2,16 @@
 window.active.title.bg.color: #2f343f
 window.inactive.title.bg.color: #2f343f
 window.*.label.text.color: #d8dee8
-window.*.button.*.image.color: #d8dee8
+window.*.button.unpressed.image.color: #d8dee8
+window.*.button.pressed.image.color: #d8dee8
+window.*.button.disabled.image.color: #d8dee8
+window.*.button.toggled.unpressed.image.color: #d8dee8
+window.*.button.toggled.pressed.image.color: #d8dee8
+
+#window.*.button.*.image.color: #d8dee8
+
+window.*.button.hover.image.color: #555555
+window.*.button.toggled.hover.image.color: #555555
 
 # Borders
 window.handle.width: 0

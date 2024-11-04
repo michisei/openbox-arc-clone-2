@@ -2,7 +2,16 @@
 window.active.title.bg.color: #ffffff
 window.inactive.title.bg.color: #ffffff
 window.*.label.text.color: #151617
-window.*.button.*.image.color: #151617
+window.*.button.unpressed.image.color: #151617
+window.*.button.pressed.image.color: #151617
+window.*.button.disabled.image.color: #151617
+window.*.button.toggled.unpressed.image.color: #151617
+window.*.button.toggled.pressed.image.color: #151617
+
+#window.*.button.*.image.color: #151617
+
+window.*.button.hover.image.color: #aaaaaa
+window.*.button.toggled.hover.image.color: #aaaaaa
 
 # Borders
 window.handle.width: 0
@@ -35,7 +44,7 @@ menu.items.disabled.text.color: #aaaaaa
 menu.items.active.disabled.text.color: #cccccc
 menu.items.active.text.color: #ffffff
 menu.title.text.justify: center
-menu.items.active.bg.color: #5294e2
+menu.items.active.bg.color: #DC143C
 
 # OSD
 osd.border.width: 1
