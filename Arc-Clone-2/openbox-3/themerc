@@ -24,9 +24,14 @@ menu.separator.padding.height: 2
 menu.overlap.x: -8
 menu.*.bg: flat solid
 menu.*.bg.color: #2f343f
-menu.*.color: #2f343f
+#menu.*.color: #2f343f
+
+menu.border.color: #2f343f
+menu.separator.color: #2f343f
+
 menu.title.text.color: #ffffff
 menu.items.text.color: #d8dee8
+menu.items.disabled.text.color: #666666
 menu.items.active.disabled.text.color: #707070
 menu.items.active.text.color: #d8dee8
 menu.title.text.justify: center
