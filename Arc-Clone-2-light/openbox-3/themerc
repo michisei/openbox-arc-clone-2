@@ -60,3 +60,6 @@ osd.hilight.bg.color: #ef6b7b
 window.active.button.close.unpressed.image.color: #ef6b7b
 window.inactive.button.close.unpressed.image.color: #bf616a
 window.active.button.shade.toggled.unpressed.image.color: #5294e2
+window.inactive.button.shade.toggled.unpressed.image.color: #aaaaaa
+window.active.button.desk.toggled.unpressed.image.color: #5294e2
+window.inactive.button.desk.toggled.unpressed.image.color: #aaaaaa
