@@ -1,0 +1,65 @@
+# Decorator
+window.active.title.bg.color: #2f343f
+window.inactive.title.bg.color: #2f343f
+window.*.label.text.color: #d8dee8
+window.*.button.unpressed.image.color: #d8dee8
+window.*.button.pressed.image.color: #d8dee8
+window.*.button.disabled.image.color: #d8dee8
+window.*.button.toggled.unpressed.image.color: #d8dee8
+window.*.button.toggled.pressed.image.color: #d8dee8
+
+#window.*.button.*.image.color: #d8dee8
+
+window.*.button.hover.image.color: #555555
+window.*.button.toggled.hover.image.color: #555555
+
+# Borders
+window.handle.width: 0
+window.client.padding.width: 0
+border.width: 0
+
+# Title
+padding.width: 20
+padding.height: 16
+window.*.title.bg: Solid Flat
+window.*.*.bg: Parentrelative
+window.label.text.justify: center
+
+# Menu
+menu.border.width: 12
+menu.separator.width: 4
+menu.separator.padding.width: 20
+menu.separator.padding.height: 4
+menu.overlap.x: -16
+menu.*.bg: flat solid
+menu.*.bg.color: #2f343f
+#menu.*.color: #2f343f
+
+menu.border.color: #2f343f
+menu.separator.color: #2f343f
+
+menu.title.text.color: #ffffff
+menu.items.text.color: #d8dee8
+menu.items.disabled.text.color: #666666
+menu.items.active.disabled.text.color: #707070
+menu.items.active.text.color: #d8dee8
+menu.title.text.justify: center
+menu.items.active.bg.color: #5294e2
+
+# OSD
+osd.border.width: 2
+osd.border.color: #2f343f
+osd.bg: flat solid
+osd.bg.color: #2f343f
+osd.label.bg: flat solid
+osd.label.bg.color: #2f343f
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #ef6b7b
+
+# Colour Trick
+window.active.button.close.unpressed.image.color: #ef6b7b
+window.inactive.button.close.unpressed.image.color: #bf616a
+window.active.button.shade.toggled.unpressed.image.color: #5294e2
+window.inactive.button.shade.toggled.unpressed.image.color: #555555
+window.active.button.desk.toggled.unpressed.image.color: #5294e2
+window.inactive.button.desk.toggled.unpressed.image.color: #555555
